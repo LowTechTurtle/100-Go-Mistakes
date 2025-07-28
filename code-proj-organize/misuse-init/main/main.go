@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/LowTechTurtle/100-Go-Mistakes/code-proj-organize/misuse-init/redis"
+
+	_ "github.com/LowTechTurtle/100-Go-Mistakes/code-proj-organize/misuse-init/redis"
 )
 
 func init() {
